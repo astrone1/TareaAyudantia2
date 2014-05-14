@@ -1,4 +1,0 @@
-TareaAyudantia2
-===============
-
-Patrones
